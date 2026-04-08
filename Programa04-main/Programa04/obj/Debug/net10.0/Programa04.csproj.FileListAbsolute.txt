@@ -1,0 +1,14 @@
+C:\Users\Augusto\AppData\Programa04-main\Programa04\bin\Debug\net10.0\Programa04.exe
+C:\Users\Augusto\AppData\Programa04-main\Programa04\bin\Debug\net10.0\Programa04.deps.json
+C:\Users\Augusto\AppData\Programa04-main\Programa04\bin\Debug\net10.0\Programa04.runtimeconfig.json
+C:\Users\Augusto\AppData\Programa04-main\Programa04\bin\Debug\net10.0\Programa04.dll
+C:\Users\Augusto\AppData\Programa04-main\Programa04\bin\Debug\net10.0\Programa04.pdb
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.AssemblyInfoInputs.cache
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.AssemblyInfo.cs
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.dll
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\refint\Programa04.dll
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.pdb
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\Programa04.genruntimeconfig.cache
+C:\Users\Augusto\AppData\Programa04-main\Programa04\obj\Debug\net10.0\ref\Programa04.dll
