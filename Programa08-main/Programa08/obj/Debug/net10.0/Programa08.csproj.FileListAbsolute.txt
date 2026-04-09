@@ -1,0 +1,14 @@
+C:\Users\Augusto\AppData\Programa08-main\Programa08\bin\Debug\net10.0\Programa08.exe
+C:\Users\Augusto\AppData\Programa08-main\Programa08\bin\Debug\net10.0\Programa08.deps.json
+C:\Users\Augusto\AppData\Programa08-main\Programa08\bin\Debug\net10.0\Programa08.runtimeconfig.json
+C:\Users\Augusto\AppData\Programa08-main\Programa08\bin\Debug\net10.0\Programa08.dll
+C:\Users\Augusto\AppData\Programa08-main\Programa08\bin\Debug\net10.0\Programa08.pdb
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.AssemblyInfoInputs.cache
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.AssemblyInfo.cs
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.dll
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\refint\Programa08.dll
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.pdb
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\Programa08.genruntimeconfig.cache
+C:\Users\Augusto\AppData\Programa08-main\Programa08\obj\Debug\net10.0\ref\Programa08.dll
